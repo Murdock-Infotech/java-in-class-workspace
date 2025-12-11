@@ -1,7 +1,10 @@
-# Computer Science 105 Code - Introduction to Programming
+# Java Codespaces Workspace
 
-This project will be used by CS 105 students to:
-- clone
-- write solutions
-- test solutions using automated tests using VS Code or `mvn test`
-- push solutions for autograding
+To use this workspace, click the button **Use this template**
+
+After creating your own copy of the repository
+- Click the green Code button
+- Click Codespaces
+- Click Create codespace on main
+
+
